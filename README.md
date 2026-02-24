@@ -46,7 +46,7 @@ backend/           # FastAPI REST API
 - Docker and Docker Compose
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-finance-tracker
+git clone https://github.com/cauafjorge/personal-finance-tracker
 cd personal-finance-tracker
 docker-compose up --build
 ```
